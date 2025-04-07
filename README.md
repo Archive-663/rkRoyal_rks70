@@ -1,6 +1,6 @@
 # Lot no. 019 | Mods for the RK Royal Kludge RKS70 Split Keyboard
 
-![samplePhoto001](https://github.com/Archive-663/lego/blob/main/ASSETS/DSCF5894.jpg)
+![samplePhoto001](https://github.com/Archive-663/rkRoyal_rks70/blob/main/ASSETS/HD.jpg)
 
 ### In this repository:
 This repository contains a collection of mods for the RK Royal Kludge RKS70  split keyboard.
